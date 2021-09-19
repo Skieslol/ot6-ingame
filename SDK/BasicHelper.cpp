@@ -6,8 +6,6 @@
 #include <iostream>
 #include <sstream>
 
-
-
 /*!!HELPER_DEF!!*/
 
 /*!!HELPER_INC!!*/
